@@ -1,0 +1,14 @@
+{
+    "name": "sergeymakarov/test-task-mirafox",
+    "description": "Test task for Mirafox",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Serhii Makarov",
+            "email": "makarovserg2@gmail.com"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^5.5"
+    }
+}
